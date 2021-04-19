@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @DK96-OS
 - 👀 I’m interested in software, math, and physics.
-- 🌱 I’m currently learning project management with Confluence and Jira, developing a graphics engine, creating financial tools.
+- 🌱 I’m currently learning project management with Confluence and Jira, developing a graphics engine, and creating financial tools for small businesses.
 - I've also developed native Android app tools, some of which have gone out of date fast (thanks ViewBinding!).
 - Explorer of many technologies and programming languages, confident in: C, JS, Python, Java, Kotlin
+- In the future, I'd like to be more comfortable with Continuous Integration / Deployment, so that a higher percentage of my brain power can be focused on the main creative process.
